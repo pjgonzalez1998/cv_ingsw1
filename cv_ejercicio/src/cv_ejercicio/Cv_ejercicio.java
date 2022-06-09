@@ -17,6 +17,9 @@ public class Cv_ejercicio {
     public static void main(String[] args) {
         System.out.println("vercion 1");
         System.out.println("vercion 2");
+        System.out.println("vercion 3");
+        System.out.println("vercion 4");
+       
     }
     
 }

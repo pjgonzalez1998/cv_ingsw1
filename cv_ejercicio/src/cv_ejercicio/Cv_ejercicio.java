@@ -15,13 +15,17 @@ public class Cv_ejercicio {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("vercion 1");
+        System.out.println("version 1");
+        
+        System.out.println("version 1.1");
+        
         System.out.println("vercion 2");
         System.out.println("vercion 3");
         System.out.println("vercion 4");
         System.out.println("vercion 5");
         System.out.println("vercion 6");
         System.out.println("vercion 7");
+        System.out.println("version 7.1");
        
     }
     
